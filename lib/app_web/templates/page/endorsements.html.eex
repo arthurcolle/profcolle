@@ -1,0 +1,67 @@
+    
+<style>
+
+.review {
+	margin: 20px;	
+}
+
+.parent-info {
+	font-size: 16px;
+	//font-weight: bold;
+}
+
+p {
+	font-size: 20px;
+}
+
+.comment {
+	margin: 10px;
+}
+</style>
+
+<ul class="container">
+		<li class="review"> <p> <i> "After many years of being both worried and frustrated with my son’s struggles with math I resolved to turn to a tutor. Among those that were recommended by parents in the school neighborhood Dr. Colle’ caught my attention: as a scientist, I was enthused by the idea of another scientist teaching math. I reasoned that someone who uses math meaningfully every day, might be able to teach not the mere rhyming of formulas and theorems, but the logic behind building them, and their usage. Not only my hopes were met, but exceeded: math work became not only meaningful, but fun."  </i> </p>
+			<ul> 
+				<li class="parent-info">Mother of MCPS student, 2012-2014</li>
+				<div class="comment"> Colle comment: I first saw this student in 9th grade for Honors Geometry, and quickly diagnosed that he lacked basic arithmetic/algebra skills and math confidence. On completion of 9th grade, I saw him throughout the following summer where we covered a full year of algebra remediation. I saw him throughout 10th grade where he earned grades of A's for both semesters of Algebra 2. </div>
+			</ul>
+		</li>
+
+		<li class="review"> <p> <i> “Great tutor, I would highly recommend!! Dr. Collé has been providing one-on-one touring sessions for my kid on a weekly basis for about three years on various subjects including Honors Algebra 2, Honors Pre-calculus, AP Calculus AB, and Honors Physics. He is helpful, knowledgeable, methodological, punctual, constructive, and enjoys passing on his knowledge on specific subjects as well as college preparation. Dr. Colle is also responsive and flexible with scheduling. He helped my teenage son with a fairly in-depth homework assignment and reviews, and was able to focus on my son's challenges and weaknesses and clearly explain some major concepts my son was struggling with. My son not only progresses in his knowledge but was also more engaged and enjoys the time he spends with Dr. Colle. I also feel that my son is working harder on his own and appears to have a lot more confidence in self-learning." </i> </p>
+		<ul>
+			<li class="parent-info">Mother of MCPS 11th grader (2014)</li>
+			<div class="comment">Colle comment: This student scored a 4 on the AP Calculus AB exam </div>
+		</ul>
+	</li>
+
+	<li class="review"> <p> <i> "Thank you Dr. Collé, you have made such a difference in (son’s name) math scores and understanding. This is the first semester in years where he has begun to feel better about himself and comfortable in a math class." </i> </p>
+		<ul> 
+			<li>Mother of MCPS 10th grader in Algebra 2, 2013</li>
+		</ul>
+	</li>
+	
+	<li class="review">  <p> <i> “He is a great teacher. All he wants is for students to get an appreciation of physical science.” Overall Quality 5.0 </i> </p>
+		<ul>
+			<li>Student in Physical Science PC 102, Montgomery College, 2011</li>
+		</ul>
+	</li>
+
+	<li class="review"> <p> <i> “Ron (Dr. Collé) responded to my tutoring request email posted to the WJ group.  We spoke over the phone and I was impressed by his qualifications and reasonable hourly rate.   .... became my daughter's math tutor for almost two years starting at Middle School.  Now, she is in college and still mentions the ways Ron taught her to solve math problems. She is grateful to have had Ron as her tutor. He explained the math concepts well, asking what areas needed help the most at the beginning of each session and focused on those areas first.  He then double checked her understanding using exercises.  Ron was also available to review quiz/exams for her and to help with Chemistry as needed. As Ron was such a great tutor, I referred several students to him.” </i> </p>
+		<ul>
+			<li>Parent of former student (2007-2011)</li>
+		</ul>
+	</li>
+
+	<li class="review"> <p> <i> “This guy is way too smart to be teaching us!” </i> </p>
+		<ul>
+			<li>Student in Finite Mathematics course, American University of Paris, in comment to Dean’s Faculty Reviews, 2005</li>
+		</ul>
+	</li>
+
+	<li class="review"> <p> <i> “On our last day in class you said that you hoped if you hadn’t been the best math teacher we ever had that at least the most memorable. You were both. I will truly miss your true love for math and your evident fondness of teaching.” </i> </p>
+		<ul>
+			<li>International student in Advanced Math Studies for IB program, Ecole Internationale Bilingue, Paris, 2004</li>
+		</ul>
+	</li>
+
+</ul>

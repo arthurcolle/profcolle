@@ -1,0 +1,16 @@
+<style type="text/css">
+	#infolist {
+		font-size: xx-large;
+		list-style-type: none
+	}
+</style>
+
+<div class="jumbotron col-md-12">
+<ul id="infolist">
+	<li><a href="tel:+1-240-383-6492" title="Phone number">📞 Phone</a></li>
+	<li><a href="mailto:profcolle@gmail.com" title="Email address">📧 Email</a></li>
+</ul>
+
+
+
+</div>

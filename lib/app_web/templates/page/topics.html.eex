@@ -1,0 +1,62 @@
+    
+<style>
+.topic_list {
+    list-style: none;
+}
+</style>
+
+<div class="jumbotron col-md-12">
+    <div class="col-md-1">
+    </div>
+
+    <div id="math_div" class="col-md-5">
+         <h2> MATHEMATICS </h2>
+
+        <ul class = "topic_list">
+            <li>K-5 Math</li>
+            <li>Middle School Math</li>
+            <li>Algebra</li>
+            <li>Plane Geometry</li>
+            <li>Algebra 2</li>
+            <li>Trigonometry</li>
+            <li>Solid & Analytical Geometry</li>
+            <li>Precalculus</li>
+            <li>Calculus</li>
+            <li>Advanced Specialties
+                <ul class="topic_list">
+                    <li>Statistics</li>
+                    <li>Symbolic Logic</li>
+                    <li>Finite Math</li>
+                    <li>Linear & Matrix Algebra</li>
+                    <li>Multivariable Calculus (Analysis)</li>
+                    <li>Differential Equations</li>
+                    <li>Linear Programming (Finance)</li>
+                </ul>
+            </li>
+        </ul>
+    </div>
+
+    <div id="science_div" class="col-md-5">
+         <h2> SCIENCE </h2>
+
+        <ul class="topic_list">
+            <li>Chemistry</li>
+            <li>Physics</li>
+            <li>General Physical Science</li>
+            <li>Advanced Specialties
+                <ul class="topic_list">
+                    <li>Nuclear Physics & Chemistry</li>
+                    <li>Radiochemistry</li>
+                    <li>Radiation Science</li>
+                    <li>Measurement Theory</li>
+                    <li>Uncertainty Treatments</li>
+                </ul>
+            </li>
+            
+        </ul>
+    </div>
+
+    <div class="col-md-1">
+    </div>
+
+</div>

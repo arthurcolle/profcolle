@@ -1,0 +1,45 @@
+<div class="jumbotron">
+<ul id="personal_education">
+	<li class="item"> <span class="institution">Rensselaer Polytechnic Institute</span> (Troy, NY)
+		<ul>
+			<li>Doctor of Philosophy (Ph.D), 1972
+				<ul>
+					<li> Physical Chemistry (Nuclear & Radiochemistry)</li>
+				</ul>
+			</li>
+		</ul>  </br>
+	</li> </br>
+	<li class="item"> <span class="institution">George Washington University</span> (Washington, DC)
+		<ul>
+			<li>Master of Science in Administration (M.S. Adm), 1979
+				<ul>
+					<li>
+						Administration of Science & Technology
+					</li>
+				</ul>
+			</li>
+		</ul>  </br>
+	</li>  </br>
+	<li class="item"> <span class="institution">Georgia Institute of Technology</span> (Atlanta, GA)
+		<ul>
+			<li>Bachelor of Science in Chemistry (B.S. Chem.), 1969</li>
+		</ul>
+	</li>
+</ul>
+</div>
+
+
+<style>
+	#personal_education { margin: 2% 2% 2% 2%; }
+
+    * { list-style:none }
+
+    .institution {
+    	font-weight: bold;
+    }
+
+    .item {
+    	font-size: larger;
+    }
+
+</style>

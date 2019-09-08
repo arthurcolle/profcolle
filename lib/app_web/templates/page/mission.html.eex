@@ -1,0 +1,16 @@
+<div class="jumbotron" id="mission">
+<ul>
+	<li>Instruction + test preparation at all levels (K-12 through college)</li>
+	<li>Serving needs of students and parents locally (Montgomery County) since 2006 (also tutored international HS students in Paris, 2003-5)</li>
+	<li>Specializing in diagnostics & remediation of student problems</li>
+	<li>Vast experience in rescuing students caught up in advanced level placements</li>
+	<li>Familiarization with MCPS, IB, AP, IGCSE curricula, standardized tests, and SAT, ACT, AP, etc. examinations</li>
+</ul>
+</div>
+
+<style>
+#mission li {
+	padding: 10px;
+	list-style: none;
+}
+</style>

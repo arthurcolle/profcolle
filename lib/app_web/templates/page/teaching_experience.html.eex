@@ -1,0 +1,78 @@
+
+    <table>
+        <tr>
+            <td><b>2010's</b></td>
+            <td>
+                <ul>
+                    <li>Montgomery College (Rockville, MD) </li>
+                    <li>PROFCOLLE, private tutoring of over 35 students in Montgomery County </li>
+                </ul>
+            </td>
+        </tr>
+
+        <tr>
+            <td><b>2000's</b></td>
+            <td>
+                <ul>
+                    <li>Victor Hugo School, Ecole Active International (Paris, France)</li>
+                    <li>American University of Paris (Paris, France)</li>
+                    <li>PROFCOLLE, private tutoring of over 20 students, 2003-2005 (Paris) and 2006-2009 </li>
+                </ul>
+            </td>
+        </tr>
+
+        <tr>
+            <td><b>1990's</b></td>
+            <td>
+                <ul>
+                    <li> Graduate School USDA (Washington, DC) </li>
+                    <li> US Nuclear Regulatory Commission Technical Training Center (Chattanooga, TN) </li>
+                    <li> US Department of Energy Summer Schools
+                        <ul>
+                            <li>(Idaho Falls, ID; Grand Junction, CO; et alia) </li>
+                        </ul>
+                    </li>
+                    <li> George Washington University (Washington, DC) </li>
+                </ul>
+            </td>
+        </tr>
+
+    	<tr>
+            <td><b>1980's</b></td>
+            <td>
+                <ul>
+                    <li>Harvard University, School of Public Health (Cambridge, MA) </li>
+                    <li>Oak Ridge National Laboratory Summer Course (Oak Ridge, TN) </li>
+                    <li> US Environmental Protection Agency Training Courses
+                        <ul> 
+                            <li>(Shreveport, LA; Montgomery AL; et alia) </li>
+                        </ul>
+                    </li>
+                    <li>George Washington University (Washington, DC) </li>
+                </ul>
+            </td>
+        </tr>
+
+
+        <tr>
+        	<td><b>1970's</b></td>
+        	<td>
+            	<ul>
+                	<li>Georgia Institute of Technology (Atlanta, GA)</li>
+                	<li>Rensselaer Polytechnic Institute (Troy, NY) </li>
+                    <li>University of Maryland (College Park, MD) </li>
+            	</ul>
+        	</td>
+    	</tr>
+
+
+    <table>
+
+<style>
+    * { list-style:none }
+    
+    table {
+        border-collapse: separate;
+        border-spacing: 0 1.5em;
+    }
+</style>

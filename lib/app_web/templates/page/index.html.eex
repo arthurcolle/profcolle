@@ -1,0 +1,31 @@
+      <!-- Jumbotron -->
+      <div class="jumbotron">
+          <img src="<%= Routes.static_path(@conn, "/images/colle.jpg") %>" class="pull-right" style="border-radius: 10px 10px 10px 10px">
+          <h2>Ronald Coll&eacute;, PhD</h2>
+          <h3> Math + Science Tutoring </h3>
+          <p class="lead">Pre-Algebra to Post-Calculus</p>
+          <p class="lead">Chemistry, Physics, Physical Sciences</p>
+          <p><a class="btn btn-lg btn-success" href="#" role="button">Get started today</a></p>
+      </div>
+
+      <!-- Example row of columns -->
+<%#       <div class="row">
+
+        <div class="col-lg-4">
+          <h2>Discipline + work ethics</h2>
+          <p>Through our sessions, you or your student will be instilled with a sense of focus and intrinsic motivation to excel and achieve in their academic environments. This is critical for continued success in the current academic semester as well as in students' futures as scholars and innovators.</p>
+          <p><a class="btn btn-primary" href="#" role="button">View details &raquo;</a></p>
+        </div>
+
+        <div class="col-lg-4">
+          <h2>Discipline + work ethics</h2>
+          <p>Through our sessions, you or your student will be instilled with a sense of focus and intrinsic motivation to excel and achieve in their academic environments. This is critical for continued success in the current academic semester as well as in students' futures as scholars and innovators.</p>
+          <p><a class="btn btn-primary" href="#" role="button">View details &raquo;</a></p>
+        </div>
+
+        <div class="col-lg-4">
+          <h2>Test taking strategies</h2>
+          <p>While we focus on relaying subject matter and helping students approach problems in new ways, we also instruct strategic test-taking. Sometimes under pressure, one's performance decreases due to time constraints and other factors. We try to proactively identify ways that this can happen and come up with mechanisms to alleviate these factors.</p>
+          <p><a class="btn btn-primary" href="#" role="button">View details &raquo;</a></p>
+        </div>
+      </div> %>
