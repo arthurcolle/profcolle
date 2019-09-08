@@ -5,7 +5,7 @@
           <h3> Math + Science Tutoring </h3>
           <p class="lead">Pre-Algebra to Post-Calculus</p>
           <p class="lead">Chemistry, Physics, Physical Sciences</p>
-          <p><a class="btn btn-lg btn-success" href="#" role="button">Get started today</a></p>
+          <p><a class="btn btn-lg btn-success" href="/contact" role="button">Get started today</a></p>
       </div>
 
       <!-- Example row of columns -->
